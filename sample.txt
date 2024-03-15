@@ -1,6 +1,7 @@
-
+WELCOME TO GIT
 hello
 amogh shet
 WELCOME TO DELOITTE
 
 CHANGES DONE IN GLOBAL REPOSITARY
+global respositary is nothing but chnages done in github and later updated in the normal folder file
