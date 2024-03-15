@@ -5,3 +5,7 @@ WELCOME TO DELOITTE
 
 CHANGES DONE IN GLOBAL REPOSITARY
 global respositary is nothing but chnages done in github and later updated in the normal folder file
+
+
+
+changes done in normal text file 
